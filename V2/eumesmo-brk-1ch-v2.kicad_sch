@@ -963,7 +963,7 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
+		(property "LCSC Part #" "C385834"
 			(at 133.35 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -974,7 +974,18 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C385834"
+		(property "FT Position Offset" "0,1.78"
+			(at 133.35 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "FT Rotation Offset" "0"
 			(at 133.35 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -1096,28 +1107,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 170.18 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC Part" "C2765063"
-			(at 170.18 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Mfr" "Wago"
 			(at 170.18 99.06 0)
 			(hide yes)
@@ -1152,6 +1141,39 @@
 			)
 		)
 		(property "Vendor PN" "C2765063"
+			(at 170.18 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C2765063"
+			(at 170.18 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 170.18 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "FT Rotation Offset" "0"
 			(at 170.18 99.06 0)
 			(hide yes)
 			(show_name no)
