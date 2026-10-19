@@ -584,7 +584,7 @@
 				)
 			)
 		)
-		(property "Mfr" "Wago"
+		(property "Mfr" "Cixi Kefa Elec"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -597,7 +597,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "250-204"
+		(property "Mfr PN" "KF250-3.5-4P-1"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -623,7 +623,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C2765063"
+		(property "Vendor PN" "C475156"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -636,7 +636,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C2765063"
+		(property "LCSC Part #" "C475156"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -679,6 +679,12 @@
 		(path "/bb8a2d59-1b50-4794-9427-649f5a4c6412")
 		(sheetname "/")
 		(sheetfile "eumesmo-brk-1ch-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2" "3" "4")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1049,6 +1055,12 @@
 		(path "/00000000-0000-0000-0000-0000614910c0")
 		(sheetname "/")
 		(sheetfile "eumesmo-brk-1ch-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "8" "7" "6" "5" "4" "3" "2" "1")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
